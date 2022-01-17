@@ -1,0 +1,27 @@
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 14px;
+    line-height: 1.5rem;
+    color:aqua;
+    background-color: white;
+};
+
+
+.navbar-brand {
+    color: blue;
+}
+
+.heading {
+    background-color: blue;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 20px
+}
+.card {
+    width: 22rem;
+}
